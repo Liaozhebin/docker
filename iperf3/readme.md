@@ -1,6 +1,17 @@
 [![Docker Stars](https://img.shields.io/docker/stars/bingo592/iperf3.svg)](https://hub.docker.com/r/bingo592/iperf3/) [![Docker Pulls](https://img.shields.io/docker/pulls/bingo592/iperf3.svg)](https://hub.docker.com/r/bingo592/iperf3/)
 
 [TOC]
+- [docker: iperf3](#docker--iperf3)
+  * [Feature](#feature)
+    + [Supported tags and respective `Dockerfile` links](#supported-tags-and-respective--dockerfile--links)
+    + [Reference](#reference)
+  * [Prepare the host](#prepare-the-host)
+    + [Pulling from Docker hub](#pulling-from-docker-hub)
+    + [Running the image](#running-the-image)
+    + [Test with the server](#test-with-the-server)
+  * [Thanks](#thanks)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 # docker: iperf3
 
 This is a Docker image to run the [iperf3](https://github.com/esnet/iperf) commandline tool in server mode.
